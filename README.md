@@ -1,20 +1,6 @@
-# Galaxy A13 5G Kernel
-
-## To compile:
-> [!NOTE]
-> Make sure you have build tools/packages installed, else it won't compile properly.
-- git clone --depth=1 https://github.com/nostalgiceagle/android_kernel_samsung_mt6833
-- cd android_kernel_samsung_mt6833
-- ./build_kernel.sh (with sudo)
-
-
-### Features [To be added/Implemented]
-- Bootable with OneUI7
-- TEO CPUIDLE Governor
-- Dex TouchPad [SEC_TOUCHPAD] 
-- Less-Debugs
-- KernelSU-Next with SUSFS
-- Maybe more in future
 
 > [!NOTE]
-> Feel free to fork or create PR.
+> 11th July, 2025: Repository archived due to some reason and moved to https://github.com/nostalgiceagle/samsung_kernel_mt6833
+> That Repository has all those changes which this one has. Basically that and this is same but commit history & toolchain removed since it makes the repo big in size.
+> That repo is based on enforcing-u8 of this repo.
+> Thanks to @physwizz for the repo.
