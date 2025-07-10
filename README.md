@@ -1,4 +1,4 @@
-# Galaxy A13 5G Kernel
+# Galaxy A13 4G (Helio G80) Kernel
 
 ## To compile:
 > [!NOTE]
